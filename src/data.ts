@@ -80,11 +80,8 @@ export const slides = [
     src: '/20.jpg',
     title: 'Mirror selfie',
     description: 'Kaposvár',
-  },{
-    src: '/21.jpg',
-    title: 'Nincs hozzászólás',
-    description: 'Zimány',
-  },{
+  },
+  {
     src: '/22.jpg',
     title: 'Ford Galaxy',
     description: 'Zimány',
